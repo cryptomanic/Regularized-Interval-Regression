@@ -1,0 +1,10 @@
+Package: mathR
+Title: Fast Implementation of Algorithms Using C
+Version: 0.0.0.9000
+Authors@R: 'Deepak Yadav <deepakyadav.iitbhu@gmail.com> [aut, cre]'
+Description: 
+Depends:
+    R (>= 3.2.2)
+License: 
+LazyData: true
+RoxygenNote: 5.0.1
